@@ -1,0 +1,7 @@
+Input a 0
+Input b 0
+Output x 0
+Output y 0
+0 1 a+ | z+
+1 2 a- | z-
+2 0 b+ | z-
