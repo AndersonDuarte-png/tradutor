@@ -1,0 +1,11 @@
+Input a 0
+Input b 0
+Output x 0
+Output y 0
+0 1 a+ | z+
+1 2 [a-] | z-
+1 3 [b+] | z-
+2 4 b+ | x+
+4 0 b- | x-
+3 5 a- | x+
+5 0 b- | x-

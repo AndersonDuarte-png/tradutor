@@ -1,0 +1,7 @@
+Input a 0
+Input b 0
+Output x 0
+Output y 0
+0 1 a+ | x+ y+
+1 2 b+ | y-
+2 0 a- b- | x-

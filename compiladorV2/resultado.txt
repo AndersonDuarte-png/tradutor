@@ -1,0 +1,105 @@
+.inputs, a, b
+.outputs, x, y
+.graph
+.marking{p0}
+.end.inputs, a, b
+.outputs, x, y
+.graph
+.marking{p0}
+.end.inputs, a, b
+.outputs, x, y
+.graph
+.marking{p0}
+.end.inputs, a, b
+.outputs, x, y
+.graph
+.marking{p0}
+.end.inputs, a, b
+.outputs, x, y
+.graph
+.marking{p0}
+.end.inputs, a, b
+.outputs, x, y
+.graph
+.marking{p0}
+.end.inputs, a, b
+.outputs, x, y
+.graph
+.marking{p0}
+.end.inputs, a, b
+.outputs, x, y
+.graph
+.marking{p0}
+.end.inputs, a, b
+.outputs, x, y
+.graph
+.marking{p0}
+.end.inputs, a, b
+.outputs, x, y
+.graph
+.marking{p0}
+.end.inputs, a, b
+.outputs, x, y
+.graph
+.marking{p0}
+.end.inputs, a, b
+.outputs, x, y
+.graph
+.marking{p0}
+.end.inputs, a, b
+.outputs, x, y
+.graph
+.marking{p0}
+.end.inputs, a, b
+.outputs, x, y
+.graph
+.marking{p0}
+.end.inputs, a, b
+.outputs, x, y
+.graph
+.marking{p0}
+.end.inputs, a, b
+.outputs, x, y
+.graph
+.marking{p0}
+.end.inputs, a, b
+.outputs, x, y
+.graph
+.marking{p0}
+.end.inputs, a, b
+.outputs, x, y
+.graph
+.marking{p0}
+.end.inputs, a, b
+.outputs, x, y
+.graph
+.marking{p0}
+.end.inputs, a, b
+.outputs, x, y
+.graph
+.marking{p0}
+.end.inputs, a, b
+.outputs, x, y
+.graph
+.marking{p0}
+.end.inputs, a, b
+.outputs, x, y
+.graph
+.marking{p0}
+.end.inputs, a, b
+.outputs, x, y
+.graph
+.marking{p0}
+.end.inputs, a, b
+.outputs, x, y
+.graph
+.marking{p0}
+.end.inputs, a, b
+.outputs, x, y
+.graph
+.marking{p0}
+.end.inputs, a, b
+.outputs, x, y
+.graph
+.marking{p0}
+.end
